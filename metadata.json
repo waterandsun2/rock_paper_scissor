@@ -1,0 +1,8 @@
+{
+  "name": "Remix 街機猜拳大對決 - 經典石頭剪刀布",
+  "description": "經典復古街機風格的石頭剪刀布遊戲，具備即時隨機對決、震撼視覺效果、排行榜統計與音效體驗。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
